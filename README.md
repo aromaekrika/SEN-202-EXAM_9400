@@ -2,6 +2,7 @@
 sen 202 exam
 9400 this is my exam it is an employee manager system with django
 admin credentials username:emma   passward:12345
+question answered 1,2,5
 
 |**Name**       | **Github username that links to account**         | **Matric Number** |	**Contribution** |
 |---------------|---------------------------------------------------|-------------------|------------------|
